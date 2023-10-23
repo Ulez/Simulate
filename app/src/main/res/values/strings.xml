@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simulate</string>
+    <string name="accessibility_service_label">模拟辅助功能</string>
+    <string name="accessibility_service_description">AccessibilityServiceDescription</string>
+</resources>
